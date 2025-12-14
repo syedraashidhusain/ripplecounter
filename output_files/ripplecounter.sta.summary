@@ -1,0 +1,197 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'clk'
+Slack : -2.279
+TNS   : -2.279
+
+Type  : Slow 1100mV 85C Model Setup 'q_int[0]'
+Slack : -2.065
+TNS   : -2.065
+
+Type  : Slow 1100mV 85C Model Setup 'q_int[1]'
+Slack : -1.762
+TNS   : -1.762
+
+Type  : Slow 1100mV 85C Model Setup 'q_int[2]'
+Slack : -0.738
+TNS   : -0.738
+
+Type  : Slow 1100mV 85C Model Hold 'q_int[2]'
+Slack : 0.486
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'q_int[1]'
+Slack : 0.621
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clk'
+Slack : 0.636
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'q_int[0]'
+Slack : 1.068
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -0.724
+TNS   : -1.114
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'q_int[1]'
+Slack : -0.724
+TNS   : -1.108
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'q_int[0]'
+Slack : -0.724
+TNS   : -1.104
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'q_int[2]'
+Slack : -0.724
+TNS   : -1.103
+
+Type  : Slow 1100mV 0C Model Setup 'clk'
+Slack : -2.142
+TNS   : -2.142
+
+Type  : Slow 1100mV 0C Model Setup 'q_int[0]'
+Slack : -2.119
+TNS   : -2.119
+
+Type  : Slow 1100mV 0C Model Setup 'q_int[1]'
+Slack : -1.933
+TNS   : -1.933
+
+Type  : Slow 1100mV 0C Model Setup 'q_int[2]'
+Slack : -0.676
+TNS   : -0.676
+
+Type  : Slow 1100mV 0C Model Hold 'q_int[2]'
+Slack : 0.470
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clk'
+Slack : 0.538
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'q_int[1]'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'q_int[0]'
+Slack : 1.203
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -0.724
+TNS   : -1.118
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'q_int[2]'
+Slack : -0.724
+TNS   : -1.107
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'q_int[0]'
+Slack : -0.724
+TNS   : -1.104
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'q_int[1]'
+Slack : -0.724
+TNS   : -1.103
+
+Type  : Fast 1100mV 85C Model Setup 'clk'
+Slack : -1.445
+TNS   : -1.445
+
+Type  : Fast 1100mV 85C Model Setup 'q_int[0]'
+Slack : -0.820
+TNS   : -0.820
+
+Type  : Fast 1100mV 85C Model Setup 'q_int[1]'
+Slack : -0.664
+TNS   : -0.664
+
+Type  : Fast 1100mV 85C Model Setup 'q_int[2]'
+Slack : 0.003
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'q_int[1]'
+Slack : 0.027
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'q_int[2]'
+Slack : 0.137
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'q_int[0]'
+Slack : 0.320
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clk'
+Slack : 0.619
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -0.190
+TNS   : -0.190
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'q_int[2]'
+Slack : 0.128
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'q_int[0]'
+Slack : 0.148
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'q_int[1]'
+Slack : 0.162
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'clk'
+Slack : -1.192
+TNS   : -1.192
+
+Type  : Fast 1100mV 0C Model Setup 'q_int[0]'
+Slack : -0.764
+TNS   : -0.764
+
+Type  : Fast 1100mV 0C Model Setup 'q_int[1]'
+Slack : -0.637
+TNS   : -0.637
+
+Type  : Fast 1100mV 0C Model Setup 'q_int[2]'
+Slack : 0.044
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'q_int[1]'
+Slack : 0.017
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'q_int[2]'
+Slack : 0.114
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'q_int[0]'
+Slack : 0.273
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clk'
+Slack : 0.422
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -0.214
+TNS   : -0.214
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'q_int[2]'
+Slack : 0.128
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'q_int[0]'
+Slack : 0.147
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'q_int[1]'
+Slack : 0.163
+TNS   : 0.000
+
+------------------------------------------------------------
